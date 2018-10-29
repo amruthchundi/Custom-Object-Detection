@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>frame2600.jpg</filename>
+	<path>C:\Users\AK\data\frame2600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lightsaber</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>89</ymin>
+			<xmax>861</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
